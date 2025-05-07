@@ -4189,7 +4189,7 @@ async function renderLoginPage() {
     <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>BPB Login</title>
+    <title>💪6️⃣8️⃣</title>
     <style>
         :root {
             --color: black;
@@ -4285,7 +4285,7 @@ async function renderLoginPage() {
     </head>
     <body>
         <div class="container">
-            <h1>BPB Panel <span style="font-size: smaller;">${globalThis.panelVersion}</span> \u{1F4A6}</h1>
+            <h1>💪6️⃣8️⃣ <span style="font-size: smaller;">${globalThis.panelVersion}</span> \u{1F4A6}</h1>
             <div class="form-container">
                 <h2>User Login</h2>
                 <form id="loginForm">
@@ -5349,8 +5349,8 @@ async function renderHomePage(proxySettings, isPassSet) {
                             ${supportedApps(["v2rayNG", "NikaNG", "MahsaNG", "v2rayN", "v2rayN-PRO", "Shadowrocket", "Streisand", "Hiddify", "Nekoray (Xray)"])}
                         </td>
                         <td>
-                            ${subQR("sub", "", "BPB-Normal", "Normal Subscription")}
-                            ${subURL("sub", "", "BPB-Normal")}
+                            ${subQR("sub", "", "💪6️⃣8️⃣-Normal", "Normal Subscription")}
+                            ${subURL("sub", "", "💪6️⃣8️⃣-Normal")}
                         </td>
                     </tr>
                     <tr>
@@ -5375,8 +5375,8 @@ async function renderHomePage(proxySettings, isPassSet) {
                             ${supportedApps(["v2rayNG", "NikaNG", "MahsaNG", "v2rayN", "v2rayN-PRO", "Streisand"])}
                         </td>
                         <td>
-                            ${subQR("sub", "xray", "BPB-Full-Normal", "Full normal Subscription")}
-                            ${subURL("sub", "xray", "BPB-Full-Normal")}
+                            ${subQR("sub", "xray", "💪6️⃣8️⃣-Full-Normal", "Full normal Subscription")}
+                            ${subURL("sub", "xray", "💪6️⃣8️⃣-Full-Normal")}
                         </td>
                     </tr>
                     <tr>
@@ -5384,8 +5384,8 @@ async function renderHomePage(proxySettings, isPassSet) {
                             ${supportedApps(["sing-box", "v2rayN (sing-box)"])}
                         </td>
                         <td>
-                            ${subQR("sub", "sfa", "BPB-Full-Normal", "Full normal Subscription", true)}
-                            ${subURL("sub", "sfa", "BPB-Full-Normal")}
+                            ${subQR("sub", "sfa", "💪6️⃣8️⃣-Full-Normal", "Full normal Subscription", true)}
+                            ${subURL("sub", "sfa", "💪6️⃣8️⃣-Full-Normal")}
                         </td>
                     </tr>
                     <tr>
@@ -5393,8 +5393,8 @@ async function renderHomePage(proxySettings, isPassSet) {
                             ${supportedApps(["Clash Meta", "Clash Verge", "FlClash", "Stash", "v2rayN (mihomo)"])}
                         </td>
                         <td>
-                            ${subQR("sub", "clash", "BPB-Full-Normal", "Full normal Subscription")}
-                            ${subURL("sub", "clash", "BPB-Full-Normal")}
+                            ${subQR("sub", "clash", "💪6️⃣8️⃣-Full-Normal", "Full normal Subscription")}
+                            ${subURL("sub", "clash", "💪6️⃣8️⃣-Full-Normal")}
                         </td>
                     </tr>
                 </table>
@@ -5411,8 +5411,8 @@ async function renderHomePage(proxySettings, isPassSet) {
                             ${supportedApps(["v2rayNG", "NikaNG", "MahsaNG", "v2rayN", "v2rayN-PRO", "Streisand"])}
                         </td>
                         <td>
-                            ${subQR("fragsub", "", "BPB-Fragment", "Fragment Subscription")}
-                            ${subURL("fragsub", "", "BPB-Fragment")}
+                            ${subQR("fragsub", "", "💪6️⃣8️⃣-Fragment", "Fragment Subscription")}
+                            ${subURL("fragsub", "", "💪6️⃣8️⃣-Fragment")}
                         </td>
                     </tr>
                     <tr>
@@ -5420,8 +5420,8 @@ async function renderHomePage(proxySettings, isPassSet) {
                             ${supportedApps(["Hiddify"])}
                         </td>
                         <td>
-                            ${subQR("fragsub", "hiddify", "BPB-Fragment", "Fragment Subscription")}
-                            ${subURL("fragsub", "hiddify", "BPB-Fragment")}
+                            ${subQR("fragsub", "hiddify", "💪6️⃣8️⃣-Fragment", "Fragment Subscription")}
+                            ${subURL("fragsub", "hiddify", "💪6️⃣8️⃣-Fragment")}
                         </td>
                     </tr>
                 </table>
@@ -5438,8 +5438,8 @@ async function renderHomePage(proxySettings, isPassSet) {
                             ${supportedApps(["v2rayNG", "v2rayN", "Streisand"])}
                         </td>
                         <td>
-                            ${subQR("warpsub", "xray", "BPB-Warp", "Warp Subscription")}
-                            ${subURL("warpsub", "xray", "BPB-Warp")}
+                            ${subQR("warpsub", "xray", "💪6️⃣8️⃣-Warp", "Warp Subscription")}
+                            ${subURL("warpsub", "xray", "💪6️⃣8️⃣-Warp")}
                         </td>
                     </tr>
                     <tr>
@@ -5447,8 +5447,8 @@ async function renderHomePage(proxySettings, isPassSet) {
                             ${supportedApps(["Hiddify", "sing-box", "v2rayN (sing-box)"])}
                         </td>
                         <td>
-                            ${subQR("sub", "singbox", "BPB-Warp", "Warp Subscription", true)}
-                            ${subURL("warpsub", "singbox", "BPB-Warp")}
+                            ${subQR("sub", "singbox", "💪6️⃣8️⃣-Warp", "Warp Subscription", true)}
+                            ${subURL("warpsub", "singbox", "💪6️⃣8️⃣-Warp")}
                         </td>
                     </tr>
                     <tr>
@@ -5456,8 +5456,8 @@ async function renderHomePage(proxySettings, isPassSet) {
                             ${supportedApps(["Clash Meta", "Clash Verge", "FlClash", "Stash", "v2rayN (mihomo)"])}
                         </td>
                         <td>
-                            ${subQR("warpsub", "clash", "BPB-Warp", "Warp Subscription")}
-                            ${subURL("warpsub", "clash", "BPB-Warp")}
+                            ${subQR("warpsub", "clash", "💪6️⃣8️⃣-Warp", "Warp Subscription")}
+                            ${subURL("warpsub", "clash", "💪6️⃣8️⃣-Warp")}
                         </td>
                     </tr>
                 </table>
@@ -5474,8 +5474,8 @@ async function renderHomePage(proxySettings, isPassSet) {
                             ${supportedApps(["NikaNG", "MahsaNG", "v2rayN-PRO"])}
                         </td>
                         <td>
-                            ${subQR("warpsub", "nikang", "BPB-Warp-Pro", "Warp Pro Subscription")}
-                            ${subURL("warpsub", "nikang", "BPB-Warp-Pro")}
+                            ${subQR("warpsub", "nikang", "💪6️⃣8️⃣-Warp-Pro", "Warp Pro Subscription")}
+                            ${subURL("warpsub", "nikang", "💪6️⃣8️⃣-Warp-Pro")}
                         </td>
                     </tr>
                     <tr>
@@ -5483,8 +5483,8 @@ async function renderHomePage(proxySettings, isPassSet) {
                             ${supportedApps(["Hiddify"])}
                         </td>
                         <td>
-                            ${subQR("warpsub", "hiddify", "BPB-Warp-Pro", "Warp Pro Subscription", true)}
-                            ${subURL("warpsub", "hiddify", "BPB-Warp-Pro")}
+                            ${subQR("warpsub", "hiddify", "💪6️⃣8️⃣-Warp-Pro", "Warp Pro Subscription", true)}
+                            ${subURL("warpsub", "hiddify", "💪6️⃣8️⃣-Warp-Pro")}
                         </td>
                     </tr>
                 </table>
@@ -6839,7 +6839,7 @@ async function renderErrorPage(error) {
     <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>BPB Error</title>
+        <title>💪6️⃣8️⃣ Error</title>
         <style>
             :root {
                 --color: black;
@@ -6871,7 +6871,7 @@ async function renderErrorPage(error) {
     </head>
     <body>
         <div id="error-container">
-            <h1>BPB Panel <span style="font-size: smaller;">${globalThis.panelVersion}</span> \u{1F4A6}</h1>
+            <h1>💪6️⃣8️⃣ <span style="font-size: smaller;">${globalThis.panelVersion}</span> \u{1F4A6}</h1>
             <div id="error-message">
                 <h2>\u274C Something went wrong!</h2>
                 <p><b>${error ? `\u26A0\uFE0F ${error.cause ? error.message.toString() : error.stack.toString()}` : ""}</b></p>
@@ -7581,7 +7581,7 @@ async function buildXrayBestFragmentConfig(proxySettings, hostName2, chainProxy,
     "80-100",
     "100-200"
   ];
-  const config = buildXrayConfig(proxySettings, "\u{1F4A6} BPB F - Best Fragment \u{1F60E}", true, true, chainProxy, false, false);
+  const config = buildXrayConfig(proxySettings, "\u{1F4A6} 💪6️⃣8️⃣ F - Best Fragment \u{1F60E}", true, true, chainProxy, false, false);
   config.dns = await buildXrayDNS(proxySettings, [], hostName2, false, false);
   config.routing.rules = buildXrayRoutingRules(proxySettings, [], chainProxy, true, false, false);
   const fragment = config.outbounds.shift();
@@ -7607,7 +7607,7 @@ async function buildXrayBestFragmentConfig(proxySettings, hostName2, chainProxy,
 }
 __name(buildXrayBestFragmentConfig, "buildXrayBestFragmentConfig");
 async function buildXrayWorkerLessConfig(proxySettings) {
-  const config = buildXrayConfig(proxySettings, "\u{1F4A6} BPB F - WorkerLess \u2B50", true, false, false, false, false);
+  const config = buildXrayConfig(proxySettings, "\u{1F4A6} 💪6️⃣8️⃣ F - WorkerLess \u2B50", true, false, false, false, false);
   config.dns = await buildXrayDNS(proxySettings, [], void 0, true);
   config.routing.rules = buildXrayRoutingRules(proxySettings, [], false, false, true, false);
   const fakeOutbound = buildXrayVLOutbound("fake-outbound", "google.com", "443", globalThis.userID, "google.com", "google.com", "", true, false);
@@ -7714,8 +7714,8 @@ async function getXrayWarpConfigs(request, env, client) {
   const proIndicator = client === "nikang" ? " Pro " : " ";
   for (const [index, endpoint] of warpEndpoints.split(",").entries()) {
     const endpointHost = endpoint.split(":")[0];
-    const warpConfig = buildXrayConfig(proxySettings, `\u{1F4A6} ${index + 1} - Warp${proIndicator}\u{1F1EE}\u{1F1F7}`, false, false, false, false, true);
-    const WoWConfig = buildXrayConfig(proxySettings, `\u{1F4A6} ${index + 1} - WoW${proIndicator}\u{1F30D}`, false, false, true, false, true);
+    const warpConfig = buildXrayConfig(proxySettings, `\💪6️⃣8️⃣ ${index + 1} - Warp${proIndicator}\u{1F1EE}\u{1F1F7}`, false, false, false, false, true);
+    const WoWConfig = buildXrayConfig(proxySettings, `\💪6️⃣8️⃣ ${index + 1} - WoW${proIndicator}\u{1F30D}`, false, false, true, false, true);
     warpConfig.dns = WoWConfig.dns = await buildXrayDNS(proxySettings, [endpointHost], void 0, false, true);
     warpConfig.routing.rules = buildXrayRoutingRules(proxySettings, [endpointHost], false, false, false, true);
     WoWConfig.routing.rules = buildXrayRoutingRules(proxySettings, [endpointHost], true, false, false, true);
@@ -7734,11 +7734,11 @@ async function getXrayWarpConfigs(request, env, client) {
     xrayWoWOutbounds.push(chainOutbound);
   }
   const dnsObject = await buildXrayDNS(proxySettings, outboundDomains, void 0, false, true);
-  const xrayWarpBestPing = buildXrayConfig(proxySettings, `\u{1F4A6} Warp${proIndicator}- Best Ping \u{1F680}`, false, true, false, false, true);
+  const xrayWarpBestPing = buildXrayConfig(proxySettings, `\💪6️⃣8️⃣ Warp${proIndicator}- Best Ping \u{1F680}`, false, true, false, false, true);
   xrayWarpBestPing.dns = dnsObject;
   xrayWarpBestPing.routing.rules = buildXrayRoutingRules(proxySettings, outboundDomains, false, true, false, true);
   xrayWarpBestPing.outbounds.unshift(...xrayWarpOutbounds);
-  const xrayWoWBestPing = buildXrayConfig(proxySettings, `\u{1F4A6} WoW${proIndicator}- Best Ping \u{1F680}`, false, true, true, false, true);
+  const xrayWoWBestPing = buildXrayConfig(proxySettings, `\💪6️⃣8️⃣ WoW${proIndicator}- Best Ping \u{1F680}`, false, true, true, false, true);
   xrayWoWBestPing.dns = dnsObject;
   xrayWoWBestPing.routing.rules = buildXrayRoutingRules(proxySettings, outboundDomains, true, true, false, true);
   xrayWoWBestPing.outbounds.unshift(...xrayWoWOutbounds, ...xrayWarpOutbounds);
@@ -8413,7 +8413,7 @@ async function getSingBoxWarpConfig(request, env, client) {
   const { warpEndpoints } = proxySettings;
   const config = structuredClone(singboxConfigTemp);
   const proIndicator = client === "hiddify" ? " Pro " : " ";
-  const dnsObject = buildSingBoxDNS(proxySettings, void 0, true, `\u{1F4A6} Warp${proIndicator}- Best Ping \u{1F680}`);
+  const dnsObject = buildSingBoxDNS(proxySettings, void 0, true, `\💪6️⃣8️⃣ Warp${proIndicator}- Best Ping \💪6️⃣8️⃣`);
   const { rules, rule_set } = buildSingBoxRoutingRules(proxySettings);
   config.dns.servers = dnsObject.servers;
   config.dns.rules = dnsObject.rules;
@@ -8423,17 +8423,17 @@ async function getSingBoxWarpConfig(request, env, client) {
   config.route.rule_set = rule_set;
   const selector = config.outbounds[0];
   const warpUrlTest = config.outbounds[1];
-  selector.outbounds = [`\u{1F4A6} Warp${proIndicator}- Best Ping \u{1F680}`, `\u{1F4A6} WoW${proIndicator}- Best Ping \u{1F680}`];
+  selector.outbounds = [`\💪6️⃣8️⃣ Warp${proIndicator}- Best Ping \💪6️⃣8️⃣`, `\💪6️⃣8️⃣ WoW${proIndicator}- Best Ping \💪6️⃣8️⃣`];
   config.outbounds.splice(2, 0, structuredClone(warpUrlTest));
   const WoWUrlTest = config.outbounds[2];
-  warpUrlTest.tag = `\u{1F4A6} Warp${proIndicator}- Best Ping \u{1F680}`;
+  warpUrlTest.tag = `\💪6️⃣8️⃣ Warp${proIndicator}- Best Ping \💪6️⃣8️⃣`;
   warpUrlTest.interval = `${proxySettings.bestWarpInterval}s`;
-  WoWUrlTest.tag = `\u{1F4A6} WoW${proIndicator}- Best Ping \u{1F680}`;
+  WoWUrlTest.tag = `\💪6️⃣8️⃣ WoW${proIndicator}- Best Ping \💪6️⃣8️⃣`;
   WoWUrlTest.interval = `${proxySettings.bestWarpInterval}s`;
   const warpRemarks = [], WoWRemarks = [];
   warpEndpoints.split(",").forEach((endpoint, index) => {
-    const warpRemark = `\u{1F4A6} ${index + 1} - Warp \u{1F1EE}\u{1F1F7}`;
-    const WoWRemark = `\u{1F4A6} ${index + 1} - WoW \u{1F30D}`;
+    const warpRemark = `\💪6️⃣8️⃣ ${index + 1} - Warp \💪6️⃣8️⃣`;
+    const WoWRemark = `\💪6️⃣8️⃣ ${index + 1} - WoW \💪6️⃣8️⃣`;
     const warpOutbound = buildSingBoxWarpOutbound(proxySettings, warpConfigs, warpRemark, endpoint, "", client);
     const WoWOutbound = buildSingBoxWarpOutbound(proxySettings, warpConfigs, WoWRemark, endpoint, warpRemark, client);
     config.outbounds.push(WoWOutbound, warpOutbound);
@@ -8497,9 +8497,9 @@ async function getSingBoxCustomConfig(request, env, isFragment) {
   config.route.rule_set = rule_set;
   const selector = config.outbounds[0];
   const urlTest = config.outbounds[1];
-  selector.outbounds = ["\u{1F4A6} Best Ping \u{1F4A5}"];
+  selector.outbounds = ["\💪6️⃣8️⃣ Best Ping \💪6️⃣8️⃣"];
   urlTest.interval = `${bestVLTRInterval}s`;
-  urlTest.tag = "\u{1F4A6} Best Ping \u{1F4A5}";
+  urlTest.tag = "\💪6️⃣8️⃣ Best Ping \💪6️⃣8️⃣";
   const totalPorts = ports.filter((port) => isFragment ? globalThis.defaultHttpsPorts.includes(port) : true);
   let proxyIndex = 1;
   const protocols = [
@@ -8695,14 +8695,14 @@ async function buildClashDNS(proxySettings, isChain, isWarp) {
     "respect-rules": true,
     "use-hosts": true,
     "use-system-hosts": false,
-    "nameserver": isWarp ? warpRemoteDNS.map((dns2) => isChain ? `${dns2}#\u{1F4A6} Warp - Best Ping \u{1F680}` : `${dns2}#\u2705 Selector`) : [isChain ? `${remoteDNS}#proxy-1` : `${remoteDNS}#\u2705 Selector`],
+    "nameserver": isWarp ? warpRemoteDNS.map((dns2) => isChain ? `${dns2}#\💪6️⃣8️⃣ Warp - Best Ping \💪6️⃣8️⃣` : `${dns2}#💪6️⃣8️⃣ Selector`) : [isChain ? `${remoteDNS}#proxy-1` : `${remoteDNS}#\u2705 Selector`],
     "proxy-server-nameserver": [`${localDNS}#DIRECT`]
   };
   if (isChain && !isWarp) {
     const chainOutboundServer = JSON.parse(outProxyParams).server;
     if (isDomain(chainOutboundServer))
       dns["nameserver-policy"] = {
-        [chainOutboundServer]: isChain ? `${remoteDNS}#proxy-1` : `${remoteDNS}#\u2705 Selector`
+        [chainOutboundServer]: isChain ? `${remoteDNS}#proxy-1` : `${remoteDNS}#💪6️⃣8️⃣ Selector`
       };
   }
   if (isBypass) {
@@ -8987,7 +8987,7 @@ function buildClashChainOutbound(chainProxyParams) {
   }
   const { server, port, uuid, flow, security, type, sni, fp, alpn, pbk, sid, headerType, host, path, serviceName } = chainProxyParams;
   const chainOutbound = {
-    "name": "\u{1F4A6} Chain Best Ping \u{1F4A5}",
+    "name": "\💪6️⃣8️⃣ Chain Best Ping \💪6️⃣8️⃣",
     "type": "vless",
     "server": server,
     "port": +port,
@@ -8995,7 +8995,7 @@ function buildClashChainOutbound(chainProxyParams) {
     "uuid": uuid,
     "flow": flow,
     "network": type,
-    "dialer-proxy": "\u{1F4A6} Best Ping \u{1F4A5}"
+    "dialer-proxy": "\💪6️⃣8️⃣ Best Ping \💪6️⃣8️⃣"
   };
   if (security === "tls") {
     const tlsAlpns = alpn ? alpn?.split(",") : [];
@@ -9056,16 +9056,16 @@ async function getClashWarpConfig(request, env) {
   config["rule-providers"] = ruleProviders;
   const selector = config["proxy-groups"][0];
   const warpUrlTest = config["proxy-groups"][1];
-  selector.proxies = ["\u{1F4A6} Warp - Best Ping \u{1F680}", "\u{1F4A6} WoW - Best Ping \u{1F680}"];
-  warpUrlTest.name = "\u{1F4A6} Warp - Best Ping \u{1F680}";
+  selector.proxies = ["\💪6️⃣8️⃣ Warp - Best Ping \💪6️⃣8️⃣", "\💪6️⃣8️⃣ WoW - Best Ping \💪6️⃣8️⃣"];
+  warpUrlTest.name = "\💪6️⃣8️⃣ Warp - Best Ping \💪6️⃣8️⃣";
   warpUrlTest.interval = +proxySettings.bestWarpInterval;
   config["proxy-groups"].push(structuredClone(warpUrlTest));
   const WoWUrlTest = config["proxy-groups"][2];
-  WoWUrlTest.name = "\u{1F4A6} WoW - Best Ping \u{1F680}";
+  WoWUrlTest.name = "\💪6️⃣8️⃣ WoW - Best Ping \💪6️⃣8️⃣";
   let warpRemarks = [], WoWRemarks = [];
   warpEndpoints.split(",").forEach((endpoint, index) => {
-    const warpRemark = `\u{1F4A6} ${index + 1} - Warp \u{1F1EE}\u{1F1F7}`;
-    const WoWRemark = `\u{1F4A6} ${index + 1} - WoW \u{1F30D}`;
+    const warpRemark = `\💪6️⃣8️⃣ ${index + 1} - Warp \💪6️⃣8️⃣`;
+    const WoWRemark = `\💪6️⃣8️⃣ ${index + 1} - WoW \💪6️⃣8️⃣`;
     const warpOutbound = buildClashWarpOutbound(warpConfigs, warpRemark, endpoint, "");
     const WoWOutbound = buildClashWarpOutbound(warpConfigs, WoWRemark, endpoint, warpRemark);
     config.proxies.push(WoWOutbound, warpOutbound);
@@ -9131,8 +9131,8 @@ async function getClashNormalConfig(request, env) {
   config["rule-providers"] = ruleProviders;
   const selector = config["proxy-groups"][0];
   const urlTest = config["proxy-groups"][1];
-  selector.proxies = ["\u{1F4A6} Best Ping \u{1F4A5}"];
-  urlTest.name = "\u{1F4A6} Best Ping \u{1F4A5}";
+  selector.proxies = ["\💪6️⃣8️⃣ Best Ping \💪6️⃣8️⃣"];
+  urlTest.name = "\💪6️⃣8️⃣ Best Ping \💪6️⃣8️⃣";
   urlTest.interval = +bestVLTRInterval;
   const Addresses = await getConfigAddresses(cleanIPs, enableIPv6);
   const customCdnAddresses = customCdnAddrs ? customCdnAddrs.split(",") : [];
@@ -9254,7 +9254,7 @@ var clashConfigTemp = {
   "proxies": [],
   "proxy-groups": [
     {
-      "name": "\u2705 Selector",
+      "name": "💪6️⃣8️⃣ Selector",
       "type": "select",
       "proxies": []
     },
@@ -9322,7 +9322,7 @@ async function getNormalConfigs(request, env) {
     });
   });
   if (outProxy) {
-    let chainRemark = `#${encodeURIComponent("\u{1F4A6} Chain proxy \u{1F517}")}`;
+    let chainRemark = `#${encodeURIComponent("💪6️⃣8️⃣ Chain proxy \💪6️⃣8️⃣")}`;
     if (outProxy.startsWith("socks") || outProxy.startsWith("http")) {
       const regex = /^(?:socks|http):\/\/([^@]+)@/;
       const isUserPass = outProxy.match(regex);
@@ -9352,7 +9352,7 @@ async function renderSecretsPage() {
     <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>BPB Generator</title>
+    <title>💪6️⃣8️⃣ Generator</title>
     <style>
         :root {
             --color: black;
@@ -9455,7 +9455,7 @@ async function renderSecretsPage() {
     </head>
     <body>
         <div class="container">
-            <h1>BPB Panel <span style="font-size: smaller;">${globalThis.panelVersion}</span> \u{1F4A6}</h1>
+            <h1>💪6️⃣8️⃣ <span style="font-size: smaller;">${globalThis.panelVersion}</span> \u{1F4A6}</h1>
             <div class="form-container">
                 <h2>Secrets generator</h2>
                 <div>
